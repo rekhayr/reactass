@@ -1,2 +1,0 @@
-# reactass
-Created with CodeSandbox
